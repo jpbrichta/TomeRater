@@ -10,4 +10,4 @@ TomeRater.py is the required solution code.
 
 populate.py is the unit test code provided with the project. I have modified this file to test the new functions.
 
-TomeRater_instructions.pdf are instructions for the assignment (for completeness and if I ever look back at this code).
+TomeRater instructions.pdf are instructions for the assignment (for completeness and if I ever look back at this code).
