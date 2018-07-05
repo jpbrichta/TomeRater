@@ -6,7 +6,7 @@ by JP Brichta
 
 Cohort: PWP June 19 2018
 
-A project submitted to complete Codecademy Pro course on Python.
+A project submitted to complete Codecademy Pro "Programming with Python" course.
 
 TomeRater.py is the required solution code.
 
